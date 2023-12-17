@@ -18,7 +18,7 @@ average_capacity = df.groupby('fips')['capacity'].mean().sort_values(ascending=F
 
 fips_counts = fips_column.value_counts()
 
-plt.bar(range(len(average_capacity)), average_capacity.values, width=0.25) # y => fips_counts 
+plt.bar(range(len(average_capacity)), average_capacity.values, width=0.4) # y => fips_counts 
 
 
 
@@ -41,7 +41,7 @@ plt.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=Tru
 
 plt.xlabel('FIPS')
 plt.ylabel('Average Capacity')
-plt.title('FIPS Counts')
+plt.title('Average Storage Capacity Per FIP (United States)')
 plt.yticks(rotation=90)
 
 
