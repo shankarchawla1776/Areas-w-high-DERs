@@ -1,0 +1,136 @@
+name	eia_id	source	sector	chp	latitude	longitude	fips	state	state_abbr	zip	capacity	collocated_with_solar	solar_mw	period	sub_id	interconnect
+Walter C Beckjord	2830	batteries	utility	False	38.9917	-84.2981	39025	Ohio	OH	45200	4.0	False	0.0	202108	18887	Eastern
+VESI Pomona	50300	batteries	ipp	False	34.059444	-117.774167	6037	California	CA	91768	20.0	False	0.0	202108	37167	Western
+Green Mountain Storage, LLC	55370	batteries	ipp	False	39.851389	-79.070556	42111	Pennsylvania	PA	15542	10.4	False	0.0	202108	8144	Eastern
+Battery Energy Storage System	57583	batteries	utility	False	64.8167	-147.725	2090	Alaska	AK	99701	40.0	False	0.0	202108	35000	Western
+ESS Battery Microgrid	58405	batteries	utility	False	57.799167	-152.404167	2150	Alaska	AK	99615	3.0	False	0.0	202108	35000	Western
+Battery Utility of Ohio	58475	batteries	ipp	False	40.260278	-82.833056	39041	Ohio	OH	43074	4.0	False	0.0	202108	19000	Eastern
+Laverne Battery	58579	batteries	utility	False	43.638611	-96.39	27133	Minnesota	MN	56616	1.0	False	0.0	202108	26916	Eastern
+Santa Rita Jail Hybrid	58625	batteries	ipp	True	37.719167	-121.886944	6001	California	CA	94568	2.0	True	1.5	202108	36377	Western
+Prosperity Energy Storage Facility Hybrid	58899	batteries	utility	False	35.001944	-106.637222	35001	New Mexico	NM	87105	0.8	True	0.5	202108	38803	Western
+Vaca Dixon Battery Storage System	59256	batteries	utility	False	38.393333	-121.927778	6095	California	CA	95688	2.0	False	0.0	202108	36292	Western
+Yerba Buena	59257	batteries	utility	False	37.305833	-121.755	6085	California	CA	95135	4.0	False	0.0	202108	36406	Western
+Tehachapi Energy Storage Project	59661	batteries	utility	False	35.123333	-118.38	6029	California	CA	93561	8.0	False	0.0	202108	36843	Western
+KCP&L SmartGrid Innovation Park	59772	batteries	utility	False	39.040263	-94.571215	29095	Missouri	MO	64110	1.0	False	0.0	202108	29402	Eastern
+AES Warrior Run Energy Storage Project	59949	batteries	ipp	False	39.593075	-78.745333	24001	Maryland	MD	21502	5.0	False	0.0	202108	8398	Eastern
+Grand Ridge Battery Projects	59957	batteries	ipp	False	41.2269	-88.6836	17099	Illinois	IL	61341	33.0	False	0.0	202108	24062	Eastern
+Elwood Energy Storage Center	59959	batteries	ipp	False	41.896873	-88.222718	17043	Illinois	IL	60185	19.8	False	0.0	202108	23125	Eastern
+Jake Energy Storage Center	59960	batteries	ipp	False	41.488679	-88.108757	17197	Illinois	IL	60436	19.8	False	0.0	202108	23400	Eastern
+AEP Milton NaS	59995	batteries	utility	False	38.3622	-82.1256	54011	West Virginia	WV	25541	2.0	False	0.0	202108	17987	Eastern
+MESA 1	60016	batteries	utility	False	47.936194	-122.246917	53061	Washington	WA	98203	2.0	False	0.0	202108	35227	Western
+Clinton Battery	60297	batteries	ipp	False	39.295883	-83.960782	39027	Ohio	OH	45107	10.0	False	0.0	202108	18890	Eastern
+HMV Minster Energy Storage System	60299	batteries	ipp	False	40.398844	-84.387266	39011	Ohio	OH	45868	7.0	False	0.0	202108	18739	Eastern
+Beech Ridge Energy Storage	60390	batteries	ipp	False	38.0878	-80.4925	54025	West Virginia	WV	25984	31.5	False	0.0	202108	18112	Eastern
+Salem Smart Power Center	60441	batteries	utility	False	44.922	-123.0183	41047	Oregon	OR	97302	5.0	False	0.0	202108	35590	Western
+Glacier Battery Storage	60444	batteries	utility	False	48.88804	-121.9462	53073	Washington	WA	98244	2.0	False	0.0	202108	35272	Western
+ETT Presidio NaS Battery	60506	batteries	ipp	False	29.566263	-104.35535	48377	Texas	TX	79845	4.0	False	0.0	202108	39763	Texas
+Cedartown Battery Energy Storage Project	60561	batteries	utility	False	34.041026	-85.223252	13233	Georgia	GA	30125	1.0	False	0.0	202108	12424	Eastern
+Borrego Springs Energy Storage	60565	batteries	utility	False	33.27011	-116.3496	6073	California	CA	92004	1.5	False	0.0	202108	37674	Western
+Pala Energy Storage Yard	60566	batteries	utility	False	33.35651	-117.113599	6073	California	CA	92059	1.5	False	0.0	202108	37732	Western
+Ortega Highway Energy Storage	60567	batteries	utility	False	33.562061	-117.543777	6059	California	CA	92675	2.0	False	0.0	202108	37418	Western
+Canyon Crest Academy	60568	batteries	utility	False	32.95907	-117.191622	6073	California	CA	92130	1.0	False	0.0	202108	37581	Western
+El Cajon Energy Storage	60569	batteries	utility	False	32.8115	-117.050546	6073	California	CA	92020	7.5	False	0.0	202108	37583	Western
+Escondido Energy Storage	60570	batteries	utility	False	33.124446	-117.114274	6073	California	CA	92029	30.0	False	0.0	202108	37540	Western
+AEP Churubusco NaS	60617	batteries	utility	False	41.2326	-85.3149	18183	Indiana	IN	46723	2.0	False	0.0	202108	21805	Eastern
+AEP Bluffton NaS	60618	batteries	utility	False	40.8928	-83.8863	39003	Ohio	OH	45817	2.0	False	0.0	202108	19600	Eastern
+Rabbit Hill Energy Storage Project	60649	batteries	ipp	False	30.587828	-97.687023	48491	Texas	TX	78626	9.9	False	0.0	202108	40677	Texas
+McHenry Battery Storage	60656	batteries	ipp	False	42.331411	-88.274352	17111	Illinois	IL	60050	19.8	False	0.0	202108	23299	Eastern
+Willey Battery Utility	60660	batteries	ipp	False	39.287747	-84.680313	39061	Ohio	OH	45013	6.0	False	0.0	202108	19217	Eastern
+Mira Loma Energy Storage Facility	60661	batteries	utility	False	34.006125	-117.560934	6071	California	CA	91761	20.0	False	0.0	202108	37423	Western
+Blue Summit Storage, LLC	60690	batteries	ipp	False	34.299	-99.399	48487	Texas	TX	76384	30.0	False	0.0	202108	39854	Texas
+Millikan BESS	60760	batteries	ipp	False	33.691	-117.833	6059	California	CA	92606	2.0	False	0.0	202108	37359	Western
+Chocksett Rd Energy Storage Project	60959	batteries	utility	False	42.451836	-71.737747	25027	Massachusetts	MA	1564	2.0	False	0.0	202108	1892	Eastern
+Glendale Battery Energy Storage System	60974	batteries	utility	False	34.162327	-118.283684	6037	California	CA	91201	2.0	False	0.0	202108	36959	Western
+Iron Horse Battery Storage Hybrid	60996	batteries	ipp	False	32.098492	-110.819119	4019	Arizona	AZ	85747	10.0	True	2.0	202108	38364	Western
+Vanadium Redox Flow Battery Plant	61107	batteries	utility	False	32.682506	-116.988781	6073	California	CA	91902	2.0	False	0.0	202108	37613	Western
+Pima Energy Storage System	61197	batteries	ipp	False	32.251647	-110.991333	4019	Arizona	AZ	85705	10.0	False	0.0	202108	38337	Western
+AES ES ALAMITOS, LLC	61204	batteries	ipp	False	33.770202	-118.099665	6037	California	CA	90803	100.0	False	0.0	202108	37303	Western
+NRG Elbow Creek Energy Storage Project	61362	batteries	ipp	False	32.167575	-101.479217	48227	Texas	TX	79720	2.0	False	0.0	202108	39804	Texas
+Top Gun Energy Storage	61366	batteries	utility	False	32.876198	-117.167791	6073	California	CA	92121	30.0	False	0.0	202108	37572	Western
+Beacon BESS 1	61431	batteries	utility	False	35.256526	-118.027519	6029	California	CA	95319	20.0	False	0.0	202108	37200	Western
+Hopewell Valley High School Hybrid	61473	batteries	utility	False	40.328005	-74.804896	34021	New Jersey	NJ	8534	1.0	True	0.9	202108	5529	Eastern
+"Vista Energy Storage System	"	61661	batteries	ipp	False	33.203977	-117.253852	6073	California	CA	90283	40.0	False	0.0	202108	37567	Western
+Cox Battery Energy Storage	61679	batteries	utility	False	37.135022	-93.324363	29077	Missouri	MO	65810	1.2	False	0.0	202108	29318	Eastern
+HEBT WLA 1	61721	batteries	commercial	False	33.669266	-117.646846	6059	California	CA	92610	1.0	False	0.0	202108	37389	Western
+HEBT Irvine 1	61722	batteries	ipp	False	33.713489	-117.852086	6059	California	CA	92795	5.5	False	0.0	202108	37326	Western
+HEBT Irvine 2	61723	batteries	ipp	False	33.665246	-117.768222	6059	California	CA	92618	5.8	False	0.0	202108	37350	Western
+Lockheed Martin RMS Syracuse	61739	batteries	industrial	False	43.109574	-76.189224	36067	New York	NY	13088	1.0	False	0.0	202108	4584	Eastern
+Kingsberry Energy Storage System	61741	batteries	utility	False	30.266028	-97.686139	48453	Texas	TX	78721	1.5	False	0.0	202108	40565	Texas
+Pacific Union College BESS	61795	batteries	commercial	False	38.570028	-122.444028	6055	California	CA	94508	1.0	False	0.0	202108	36153	Western
+Campbell Industrial Park BESS	61851	batteries	utility	False	21.3064	-158.105	15003	Hawaii	HI	96707	1.0	False	0.0	202108	35834	Western
+AES ES GILBERT	61861	batteries	ipp	False	33.446804	-111.956261	4013	Arizona	AZ	85226	10.0	False	0.0	202108	38207	Western
+Stryker 22, L.L.C.	61891	batteries	ipp	False	40.66538	-75.144467	34041	New Jersey	NJ	8865	19.8	False	0.0	202108	5889	Eastern
+Plumsted 537 LLC	61892	batteries	ipp	False	40.1094	-74.497779	34029	New Jersey	NJ	8514	19.8	False	0.0	202108	5279	Eastern
+Parkview Battery	61909	batteries	utility	False	42.26	-85.649722	26077	Michigan	MI	49009	1.0	False	0.0	202108	21195	Eastern
+Punkin Center Battery Storage	61913	batteries	utility	False	33.87581	-111.31356	4007	Arizona	AZ	85553	2.0	False	0.0	202108	38314	Western
+ACUA	61923	batteries	ipp	False	39.381969	-74.445146	34001	New Jersey	NJ	8401	1.0	False	0.0	202108	5123	Eastern
+Caldwell Wastewater Treatment Plant Hybrid	62027	batteries	ipp	False	40.838568	-74.312476	34013	New Jersey	NJ	7006	0.5	True	0.7	202108	5374	Eastern
+KCE NY 1	62147	batteries	ipp	False	42.962412	-73.746506	36091	New York	NY	12866	20.0	False	0.0	202108	4686	Eastern
+Ashburnham Energy Storage Project	62219	batteries	utility	False	42.671444	-71.926696	25027	Massachusetts	MA	1430	3.0	False	0.0	202108	1909	Eastern
+Station 9 Energy Storage System	62257	batteries	utility	False	42.187743	-70.976448	25021	Massachusetts	MA	2184	2.0	False	0.0	202108	1689	Eastern
+I25 Battery Storage	62373	batteries	utility	False	40.140285	-104.978012	8123	Colorado	CO	80504	4.0	False	0.0	202108	39072	Western
+Kearny Mesa Storage LLC	62441	batteries	ipp	False	32.815256	-117.126079	6073	California	CA	92123	1.0	False	0.0	202108	37573	Western
+Meyersdale Battery	62444	batteries	ipp	False	39.790739	-79.00205	42111	Pennsylvania	PA	1552	18.0	False	0.0	202108	8137	Eastern
+Knoxville Battery Energy Storage	62569	batteries	utility	False	41.315962	-93.060973	19125	Iowa	IA	50138	1.1	False	0.0	202108	27795	Eastern
+Beebe Substation Battery Storage	62585	batteries	utility	False	42.48791	-71.047813	25017	Massachusetts	MA	1880	3.0	False	0.0	202108	1446	Eastern
+Commerce ESS	62609	batteries	utility	False	29.43445	-98.61765	48029	Texas	TX	78227	10.0	False	0.0	202108	40567	Texas
+Minuteman Energy Storage	62644	batteries	ipp	False	42.567614	-71.098131	25017	Massachusetts	MA	1864	5.0	False	0.0	202108	1647	Eastern
+Noland Wastewater Treatment Plant Hybrid	62682	batteries	commercial	False	36.082301	-94.067149	5143	Arkansas	AR	72701	6.0	True	5.0	202108	29726	Eastern
+Westside Wastewater Treatment Plant Hybrid	62683	batteries	commercial	False	36.04135	-94.140079	5143	Arkansas	AR	72704	6.0	True	5.0	202108	30333	Eastern
+Eyak Service Center BESS	62714	batteries	utility	False	60.54047	-145.74079	2261	Alaska	AK	99574	1.0	False	0.0	202108	35000	Western
+East Hampton Energy Storage Center	62733	batteries	ipp	False	40.961751	-72.209858	36103	New York	NY	11937	5.0	False	0.0	202108	3238	Eastern
+Montauk Energy Storage Center	62734	batteries	ipp	False	41.03988	-71.964359	36103	New York	NY	11954	5.0	False	0.0	202108	3292	Eastern
+Prospect Storage	62753	batteries	ipp	False	29.149166	-95.651111	48039	Texas	TX	77486	9.9	False	0.0	202108	40775	Texas
+San Diego International Airport BESS	62754	batteries	commercial	False	32.7338	-117.1933	6073	California	CA	92101	2.0	False	0.0	202108	37534	Western
+Vallecito	62801	batteries	ipp	False	34.407086	-119.511547	6083	California	CA	93013	10.0	False	0.0	202108	36729	Western
+Acushnet Ball Plant 2	62835	batteries	industrial	False	41.7197	-70.97138	25005	Massachusetts	MA	2747	1.5	False	0.0	202108	1348	Eastern
+98th Street Battery Storage Station	62839	batteries	utility	False	40.679137	-73.840187	36081	New York	NY	11417	1.8	False	0.0	202108	2741	Eastern
+Marengo Battery Storage LLC	62856	batteries	ipp	False	42.252733	-88.639983	17111	Illinois	IL	60152	20.0	False	0.0	202108	23109	Eastern
+Nabb Battery Energy Storage System	62862	batteries	utility	False	38.501908	-85.694574	18019	Indiana	IN	47147	5.0	False	0.0	202108	21917	Eastern
+Acorn I Energy Storage LLC	62874	batteries	ipp	False	34.196505	-118.931898	6111	California	CA	91320	2.0	False	0.0	202108	36780	Western
+Hinesburg	62907	batteries	ipp	False	44.36115	-73.070764	50007	Vermont	VT	5461	1.9	False	0.0	202108	919	Eastern
+Anoka BESS	62908	batteries	ipp	False	45.32	-93.48	27003	Minnesota	MN	55303	6.0	False	0.0	202108	26272	Eastern
+Athens BESS	62937	batteries	ipp	False	45.45	-93.24	27059	Minnesota	MN	55040	6.0	False	0.0	202108	26623	Eastern
+East Pulaski BESS	62981	batteries	utility	False	43.546613	-76.10403	36075	New York	NY	13144	2.0	False	0.0	202108	4656	Eastern
+Fort Carson Battery Energy Storage System	63022	batteries	commercial	False	38.745474	-104.777675	8041	Colorado	CO	80913	4.2	False	0.0	202108	39158	Western
+Asheville-Rock Hill Battery	63064	batteries	utility	False	35.54012	-82.517383	37021	North Carolina	NC	28803	8.8	False	0.0	202108	11274	Eastern
+Athens - Coopers Corner BESS	63090	batteries	ipp	False	45.458119	-93.26763	27059	Minnesota	MN	55040	3.0	False	0.0	202108	26623	Eastern
+Camp Atterbury Microgrid Hybrid	63324	batteries	utility	False	39.3617	-86.025	18081	Indiana	IN	46124	5.0	True	2.0	202108	21871	Eastern
+San Diego Zoo	63412	batteries	ipp	False	32.739676	-117.151635	6073	California	CA	92101	1.0	False	0.0	202108	37570	Western
+Rush Springs Energy Storage (BA)	63458	batteries	ipp	False	34.695647	-97.829705	40051	Oklahoma	OK	73055	10.0	False	0.0	202108	31681	Eastern
+NY3 Battery	63585	batteries	ipp	False	41.18512	-74.07467	36087	New York	NY	10970	3.0	False	0.0	202108	3182	Eastern
+Allergan	63609	batteries	commercial	False	33.67239	-117.85381	6059	California	CA	92612	1.5	False	0.0	202108	37369	Western
+Baker	63610	batteries	commercial	False	33.656528	-117.68412	6059	California	CA	92630	1.2	False	0.0	202108	37378	Western
+CSU Long Beach	63611	batteries	commercial	False	33.78383	-118.10796	6037	California	CA	90815	2.5	False	0.0	202108	37107	Western
+DATS	63612	batteries	commercial	False	33.70731	-117.89108	6059	California	CA	92704	1.0	False	0.0	202108	37337	Western
+Downey	63613	batteries	commercial	False	33.919368	-118.128919	6037	California	CA	90242	2.0	False	0.0	202108	37102	Western
+LAWRP	63614	batteries	commercial	False	33.63778	-117.71377	6059	California	CA	92618	1.0	False	0.0	202108	37378	Western
+Long Beach Convention Center	63615	batteries	commercial	False	33.765236	-118.189377	6037	California	CA	90802	1.5	False	0.0	202108	37020	Western
+OCSD	63616	batteries	commercial	False	33.693129	-117.9409	6059	California	CA	92708	4.9	False	0.0	202108	37333	Western
+SOCCD	63617	batteries	commercial	False	33.676445	-117.777312	6059	California	CA	92618	1.3	False	0.0	202108	37350	Western
+Silverstrand Grid Energy Storage System	63735	batteries	ipp	False	34.20774	-119.079813	6111	California	CA	93010	11.0	False	0.0	202108	36760	Western
+Gateway Energy Storage System	63834	batteries	ipp	False	32.570556	-116.910556	6073	California	CA	92154	250.0	False	0.0	202108	37635	Western
+Johanna Energy Center, LLC	63843	batteries	ipp	False	33.715016	-117.853984	6059	California	CA	92705	20.0	False	0.0	202108	37347	Western
+Saticoy	63891	batteries	ipp	False	34.256691	-119.15726	6111	California	CA	93036	100.0	False	0.0	202108	36757	Western
+Crane Battery Energy Storage System	64207	batteries	utility	False	38.813511	-86.886417	18101	Indiana	IN	47522	5.0	False	0.0	202108	21943	Eastern
+Alvin	64293	batteries	ipp	False	29.433245	-95.249367	48039	Texas	TX	77511	9.9	False	0.0	202108	40904	Texas
+Odessa	64294	batteries	ipp	False	31.871315	-102.398409	48135	Texas	TX	79766	9.9	False	0.0	202108	39807	Texas
+Angleton	64295	batteries	ipp	False	29.167065	-95.440647	48039	Texas	TX	77515	9.9	False	0.0	202108	40814	Texas
+Brazoria	64296	batteries	ipp	False	29.062635	-95.577587	48039	Texas	TX	77422	9.9	False	0.0	202108	40847	Texas
+Heights	64297	batteries	ipp	False	29.389595	-94.949867	48167	Texas	TX	77590	9.9	False	0.0	202108	40760	Texas
+Magnolia TX	64298	batteries	ipp	False	29.488335	-95.133947	48167	Texas	TX	77573	9.9	False	0.0	202108	40718	Texas
+Dickinson	64314	batteries	ipp	False	29.461255	-95.056987	48167	Texas	TX	77539	9.9	False	0.0	202108	40714	Texas
+Loop 463	64315	batteries	ipp	False	28.816475	-97.074867	48469	Texas	TX	77905	9.9	False	0.0	202108	40700	Texas
+Sweeny	64321	batteries	ipp	False	29.055615	-95.687237	48039	Texas	TX	77480	9.9	False	0.0	202108	40775	Texas
+Decorah Battery	64375	batteries	utility	False	43.324	-91.793	19191	Iowa	IA	52101	2.5	False	0.0	202108	27065	Eastern
+TX7 Flat Top	64423	batteries	ipp	False	31.19791	-103.36067	48389	Texas	TX	79772	9.9	False	0.0	202108	39771	Texas
+TX8 Worsham	64424	batteries	ipp	False	31.35658	-103.33645	48371	Texas	TX	79772	9.9	False	0.0	202108	39770	Texas
+TX2 Port Lavaca	64425	batteries	ipp	False	28.58673	-96.68376	48057	Texas	TX	77979	9.9	False	0.0	202108	40894	Texas
+Grissom Solar, LLC	64450	batteries	ipp	False	36.23891	-77.897552	37083	North Carolina	NC	27823	10.0	True	5.0	202108	10751	Eastern
+Old Cedar Solar Energy Storage	64522	batteries	utility	False	35.713	-79.788	37151	North Carolina	NC	27203	1.3	True	1.0	202108	10979	Eastern
+Gambit Energy Storage - Angleton Storage	64528	batteries	ipp	False	29.16801	-95.445062	48039	Texas	TX	77515	100.0	False	0.0	202108	40814	Texas
+Wynwood Energy Storage	64546	batteries	utility	False	25.798978	-80.197098	12086	Florida	FL	33127	10.0	False	0.0	202108	14297	Eastern
+SEPV Sierra	64611	batteries	ipp	False	34.733011	-118.138525	6037	California	CA	93534	6.0	True	2.3	202108	37059	Western
+Rumford ESS	64763	batteries	ipp	False	44.532169	-70.518959	23017	Maine	ME	4276	4.9	False	0.0	202108	508	Eastern
+Madison BTM	64764	batteries	ipp	False	44.804	-69.841	23025	Maine	ME	4950	1.5	False	0.0	202108	385	Eastern
+Madison ESS	64765	batteries	ipp	False	44.793	-69.876	23025	Maine	ME	4950	4.9	False	0.0	202108	391	Eastern
