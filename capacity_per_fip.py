@@ -9,7 +9,12 @@ fips_column = df['fips']
 # print(fips_column)
 capacity_columns = df['capacity']
 # print(capacity_columns)
+sector_column = df['sector']
+# print(sector_column)
 
+sector_array = sector_column.to_numpy()
+
+colors = ['blue' if sector == 'ipp' else 'red' for sector in sector_array] # => red if sector = anything but ipp (will change as needed) => add color index
 
 fips_array = fips_column.to_numpy()
 unique_fips = len(set(fips_array)) # => 88 
@@ -18,7 +23,7 @@ average_capacity = df.groupby('fips')['capacity'].mean().sort_values(ascending=F
 
 fips_counts = fips_column.value_counts()
 
-plt.bar(range(len(average_capacity)), average_capacity.values, width=0.4) # y => fips_counts 
+plt.bar(range(len(average_capacity)), average_capacity.values, width=0.4, color=colors) # y => fips_counts 
 
 
 
@@ -33,6 +38,7 @@ for i, label in enumerate(average_capacity.values): # => fips_counts.values
         color='black',
         weight='bold'
     )
+
 
 
 
