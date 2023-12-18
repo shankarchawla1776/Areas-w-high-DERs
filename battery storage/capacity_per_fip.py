@@ -46,7 +46,7 @@ plt.xticks(range(len(average_capacity)), average_capacity.index, rotation=90) # 
 plt.tick_params(axis='x', which='both', bottom=False, top=False, labelbottom=True)
 
 plt.xlabel('FIPS')
-plt.ylabel('Average Capacity')
+plt.ylabel('Average Storage Capacity')
 plt.title('Average Storage Capacity Per FIP (United States)')
 plt.yticks(rotation=90)
 
