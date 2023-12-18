@@ -14,7 +14,7 @@ sector_column = df['sector']
 
 sector_array = sector_column.to_numpy()
 
-colors = ['blue' if sector == 'ipp' else 'red' for sector in sector_array] # => red if sector = anything but ipp (will change as needed) => add color index
+colors = ['blue' if sector == 'ipp' else 'red' for sector in sector_array] # => red if sector = anything but ipp (will change as needed) 
 
 fips_array = fips_column.to_numpy()
 unique_fips = len(set(fips_array)) # => 88 
@@ -23,7 +23,7 @@ average_capacity = df.groupby('fips')['capacity'].mean().sort_values(ascending=F
 
 fips_counts = fips_column.value_counts()
 
-plt.bar(range(len(average_capacity)), average_capacity.values, width=0.4, color=colors) # y => fips_counts 
+plt.bar(range(len(average_capacity)), average_capacity.values, width=0.4, color=colors, label='ipp') # y => fips_counts 
 
 
 
@@ -53,4 +53,11 @@ plt.yticks(rotation=90)
 
 mplcursors.cursor(hover=True)
 
+props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
+
+plt.text(78, 39.5, 'blue = FIPs associated with IPPs', fontsize=14,
+        verticalalignment='top', bbox=props)
+
+
 plt.show()
+
